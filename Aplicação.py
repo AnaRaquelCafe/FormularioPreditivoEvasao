@@ -6,7 +6,7 @@
 # Libraries to import
 import streamlit as st
 import pandas as pd
-import joblib
+# import joblib
 from joblib import load
 from utils import MinMax  
 from sklearn.pipeline import Pipeline
